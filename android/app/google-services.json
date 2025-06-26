@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "755600795713",
+    "project_id": "fluttersignin-57bda",
+    "storage_bucket": "fluttersignin-57bda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755600795713:android:a19148d8bdf9debdd0fec0",
+        "android_client_info": {
+          "package_name": "com.brainybeam.taskdemo.taskdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755600795713-nkmreskaqq9sur9ni6hslcb5q5s1toh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWUVVeOq2mBAFteQ5IKAymZT_l0F49Gt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755600795713-nkmreskaqq9sur9ni6hslcb5q5s1toh7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "755600795713-l5l39h3q6gjikhru91p50h69lb8a89om.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.brainybeam.taskdemo.taskdemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
